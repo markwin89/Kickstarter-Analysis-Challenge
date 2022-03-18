@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-### Purpose
+### Purpose 
 Analyzing Theater Campaign Outcomes Based on Launch Dates and on Goal. 
 ---
 ## Analysis and Challenges
